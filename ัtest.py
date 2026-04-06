@@ -13,4 +13,6 @@ emp2 = Employee("Jane Smith", 25, 60000)
 # call method
 emp1.display()
 emp2.display()  
+emp3 = Employee("Alice Johnson", 28, 55000)
+emp3.display()
     
